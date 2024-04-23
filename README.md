@@ -3,3 +3,5 @@ This education projects aims to look at student test scores in the U.S and ident
 # Data 
 The data used in this project is origianlly from EdGap which has test score data and socioeconomic data of school districts throughout the U.S and can be found here: https://www.edgap.org/#5/37.875/-95.977. 
 The data in this project are from files EdGap_data.xlsx ( can be found in repository) and ccd_sch_029_1617_w_1a_11212017.csv ( located in this drive link: https://drive.google.com/file/d/1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP/view?usp=sharing). 
+# Data Preparations 
+The steps taken to prepare this data include describing the data, looking at contents, converting and renaming columns, checking for null values, and beginning to set up a split-train-test to fill in the blanks. The clean data file is SM_Education_Inequality_Data_Preparation.csv and the preparation notebook is Sienna Martinez DATA 3320 Education Inequality Data Preparation Template.ipynb 
