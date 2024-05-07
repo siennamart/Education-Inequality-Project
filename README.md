@@ -8,3 +8,7 @@ The steps taken to prepare this data include describing the data, looking at con
 # Data Analysis
 The steps taken to analyze the data include the creation of a regression analysis, correlation matrix, and various scatter plots that show how various socioeconomic factors influence 
 ACT scores in independent counties. The name of the notebook with all the code and analysis is called: SM Complete Analysis.ipynb 
+# Author Information 
+Sienna Martinez is a Biology student at Seattle University with a Minor in Data Science. Her LinkedIn can be found here: https://www.linkedin.com/in/siennamartinez/
+# License 
+The NOAA dataset is public and free for use. Please consult Sienna Martinez before using graphs for purposes outside Seattle University. 
